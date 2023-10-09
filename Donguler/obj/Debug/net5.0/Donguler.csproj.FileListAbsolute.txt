@@ -1,0 +1,16 @@
+C:\Users\alper\source\repos\KampIntro\Donguler\bin\Debug\net5.0\Donguler.exe
+C:\Users\alper\source\repos\KampIntro\Donguler\bin\Debug\net5.0\Donguler.deps.json
+C:\Users\alper\source\repos\KampIntro\Donguler\bin\Debug\net5.0\Donguler.runtimeconfig.json
+C:\Users\alper\source\repos\KampIntro\Donguler\bin\Debug\net5.0\Donguler.runtimeconfig.dev.json
+C:\Users\alper\source\repos\KampIntro\Donguler\bin\Debug\net5.0\Donguler.dll
+C:\Users\alper\source\repos\KampIntro\Donguler\bin\Debug\net5.0\ref\Donguler.dll
+C:\Users\alper\source\repos\KampIntro\Donguler\bin\Debug\net5.0\Donguler.pdb
+C:\Users\alper\source\repos\KampIntro\Donguler\obj\Debug\net5.0\Donguler.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\KampIntro\Donguler\obj\Debug\net5.0\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\KampIntro\Donguler\obj\Debug\net5.0\Donguler.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\KampIntro\Donguler\obj\Debug\net5.0\Donguler.AssemblyInfo.cs
+C:\Users\alper\source\repos\KampIntro\Donguler\obj\Debug\net5.0\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\KampIntro\Donguler\obj\Debug\net5.0\Donguler.dll
+C:\Users\alper\source\repos\KampIntro\Donguler\obj\Debug\net5.0\ref\Donguler.dll
+C:\Users\alper\source\repos\KampIntro\Donguler\obj\Debug\net5.0\Donguler.pdb
+C:\Users\alper\source\repos\KampIntro\Donguler\obj\Debug\net5.0\Donguler.genruntimeconfig.cache

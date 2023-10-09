@@ -1,0 +1,16 @@
+C:\Users\alper\source\repos\KampIntro\OdevMetotlar\bin\Debug\net5.0\OdevMetotlar.exe
+C:\Users\alper\source\repos\KampIntro\OdevMetotlar\bin\Debug\net5.0\OdevMetotlar.deps.json
+C:\Users\alper\source\repos\KampIntro\OdevMetotlar\bin\Debug\net5.0\OdevMetotlar.runtimeconfig.json
+C:\Users\alper\source\repos\KampIntro\OdevMetotlar\bin\Debug\net5.0\OdevMetotlar.runtimeconfig.dev.json
+C:\Users\alper\source\repos\KampIntro\OdevMetotlar\bin\Debug\net5.0\OdevMetotlar.dll
+C:\Users\alper\source\repos\KampIntro\OdevMetotlar\bin\Debug\net5.0\ref\OdevMetotlar.dll
+C:\Users\alper\source\repos\KampIntro\OdevMetotlar\bin\Debug\net5.0\OdevMetotlar.pdb
+C:\Users\alper\source\repos\KampIntro\OdevMetotlar\obj\Debug\net5.0\OdevMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\KampIntro\OdevMetotlar\obj\Debug\net5.0\OdevMetotlar.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\KampIntro\OdevMetotlar\obj\Debug\net5.0\OdevMetotlar.AssemblyInfo.cs
+C:\Users\alper\source\repos\KampIntro\OdevMetotlar\obj\Debug\net5.0\OdevMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\KampIntro\OdevMetotlar\obj\Debug\net5.0\OdevMetotlar.dll
+C:\Users\alper\source\repos\KampIntro\OdevMetotlar\obj\Debug\net5.0\ref\OdevMetotlar.dll
+C:\Users\alper\source\repos\KampIntro\OdevMetotlar\obj\Debug\net5.0\OdevMetotlar.pdb
+C:\Users\alper\source\repos\KampIntro\OdevMetotlar\obj\Debug\net5.0\OdevMetotlar.genruntimeconfig.cache
+C:\Users\alper\source\repos\KampIntro\OdevMetotlar\obj\Debug\net5.0\OdevMetotlar.csproj.AssemblyReference.cache
