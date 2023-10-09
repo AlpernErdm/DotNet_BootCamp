@@ -1,0 +1,16 @@
+C:\Users\alper\source\repos\KampIntro\ClassMetotDemo\bin\Debug\net5.0\ClassMetotDemo.exe
+C:\Users\alper\source\repos\KampIntro\ClassMetotDemo\bin\Debug\net5.0\ClassMetotDemo.deps.json
+C:\Users\alper\source\repos\KampIntro\ClassMetotDemo\bin\Debug\net5.0\ClassMetotDemo.runtimeconfig.json
+C:\Users\alper\source\repos\KampIntro\ClassMetotDemo\bin\Debug\net5.0\ClassMetotDemo.runtimeconfig.dev.json
+C:\Users\alper\source\repos\KampIntro\ClassMetotDemo\bin\Debug\net5.0\ClassMetotDemo.dll
+C:\Users\alper\source\repos\KampIntro\ClassMetotDemo\bin\Debug\net5.0\ref\ClassMetotDemo.dll
+C:\Users\alper\source\repos\KampIntro\ClassMetotDemo\bin\Debug\net5.0\ClassMetotDemo.pdb
+C:\Users\alper\source\repos\KampIntro\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\KampIntro\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\KampIntro\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\KampIntro\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.AssemblyInfo.cs
+C:\Users\alper\source\repos\KampIntro\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\KampIntro\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.dll
+C:\Users\alper\source\repos\KampIntro\ClassMetotDemo\obj\Debug\net5.0\ref\ClassMetotDemo.dll
+C:\Users\alper\source\repos\KampIntro\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.pdb
+C:\Users\alper\source\repos\KampIntro\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.genruntimeconfig.cache

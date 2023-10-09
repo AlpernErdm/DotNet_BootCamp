@@ -8,15 +8,15 @@ namespace ClassMetotDemo
 {
     class MusteriManager
     {
-        static void musterıEkleme(Musteri musteri)
+        public void musterıEkleme(Musteri musteri)
         {
             Console.WriteLine("Müşteri eklendi :" + musteri.musteriAd);
         }
-        static void musteriSilme(Musteri musteri)
+        public void musteriSilme(Musteri musteri)
         {
             Console.WriteLine("Müşteri Silindi !!" + musteri.musteriAd);
         }
-        static void musteriListele(Musteri musteri)
+        public void musteriListele(Musteri musteri)
         {
             Console.WriteLine("Müşteriler listedeki gibidir "+musteri.musteriAd + musteri.musteriSoyad);
         }
