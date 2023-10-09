@@ -24,6 +24,11 @@ namespace GenericsIntro
                 items[0] = tempArray[0];
             }
             items[items.Length - 1] = item; //işte eleman ekleme işlemi burda oluyor
+
+        }
+        public int Length
+        {
+            get { return items.Length; }
         }
     }
 }
