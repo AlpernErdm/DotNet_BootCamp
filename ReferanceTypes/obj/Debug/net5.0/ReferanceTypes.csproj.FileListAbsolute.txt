@@ -1,0 +1,16 @@
+C:\Users\alper\source\repos\KampIntro\ReferanceTypes\bin\Debug\net5.0\ReferanceTypes.exe
+C:\Users\alper\source\repos\KampIntro\ReferanceTypes\bin\Debug\net5.0\ReferanceTypes.deps.json
+C:\Users\alper\source\repos\KampIntro\ReferanceTypes\bin\Debug\net5.0\ReferanceTypes.runtimeconfig.json
+C:\Users\alper\source\repos\KampIntro\ReferanceTypes\bin\Debug\net5.0\ReferanceTypes.runtimeconfig.dev.json
+C:\Users\alper\source\repos\KampIntro\ReferanceTypes\bin\Debug\net5.0\ReferanceTypes.dll
+C:\Users\alper\source\repos\KampIntro\ReferanceTypes\bin\Debug\net5.0\ref\ReferanceTypes.dll
+C:\Users\alper\source\repos\KampIntro\ReferanceTypes\bin\Debug\net5.0\ReferanceTypes.pdb
+C:\Users\alper\source\repos\KampIntro\ReferanceTypes\obj\Debug\net5.0\ReferanceTypes.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\KampIntro\ReferanceTypes\obj\Debug\net5.0\ReferanceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\KampIntro\ReferanceTypes\obj\Debug\net5.0\ReferanceTypes.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\KampIntro\ReferanceTypes\obj\Debug\net5.0\ReferanceTypes.AssemblyInfo.cs
+C:\Users\alper\source\repos\KampIntro\ReferanceTypes\obj\Debug\net5.0\ReferanceTypes.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\KampIntro\ReferanceTypes\obj\Debug\net5.0\ReferanceTypes.dll
+C:\Users\alper\source\repos\KampIntro\ReferanceTypes\obj\Debug\net5.0\ref\ReferanceTypes.dll
+C:\Users\alper\source\repos\KampIntro\ReferanceTypes\obj\Debug\net5.0\ReferanceTypes.pdb
+C:\Users\alper\source\repos\KampIntro\ReferanceTypes\obj\Debug\net5.0\ReferanceTypes.genruntimeconfig.cache
