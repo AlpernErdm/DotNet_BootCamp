@@ -1,0 +1,15 @@
+C:\Users\alper\source\repos\KampIntro\OOP3\bin\Debug\net5.0\OOP3.exe
+C:\Users\alper\source\repos\KampIntro\OOP3\bin\Debug\net5.0\OOP3.deps.json
+C:\Users\alper\source\repos\KampIntro\OOP3\bin\Debug\net5.0\OOP3.runtimeconfig.json
+C:\Users\alper\source\repos\KampIntro\OOP3\bin\Debug\net5.0\OOP3.runtimeconfig.dev.json
+C:\Users\alper\source\repos\KampIntro\OOP3\bin\Debug\net5.0\OOP3.dll
+C:\Users\alper\source\repos\KampIntro\OOP3\bin\Debug\net5.0\ref\OOP3.dll
+C:\Users\alper\source\repos\KampIntro\OOP3\bin\Debug\net5.0\OOP3.pdb
+C:\Users\alper\source\repos\KampIntro\OOP3\obj\Debug\net5.0\OOP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\KampIntro\OOP3\obj\Debug\net5.0\OOP3.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\KampIntro\OOP3\obj\Debug\net5.0\OOP3.AssemblyInfo.cs
+C:\Users\alper\source\repos\KampIntro\OOP3\obj\Debug\net5.0\OOP3.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\KampIntro\OOP3\obj\Debug\net5.0\OOP3.dll
+C:\Users\alper\source\repos\KampIntro\OOP3\obj\Debug\net5.0\ref\OOP3.dll
+C:\Users\alper\source\repos\KampIntro\OOP3\obj\Debug\net5.0\OOP3.pdb
+C:\Users\alper\source\repos\KampIntro\OOP3\obj\Debug\net5.0\OOP3.genruntimeconfig.cache
