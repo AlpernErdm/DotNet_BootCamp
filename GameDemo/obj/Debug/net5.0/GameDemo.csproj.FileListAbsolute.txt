@@ -1,0 +1,16 @@
+C:\Users\alper\source\repos\KampIntro\GameDemo\obj\Debug\net5.0\GameDemo.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\KampIntro\GameDemo\obj\Debug\net5.0\GameDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\KampIntro\GameDemo\obj\Debug\net5.0\GameDemo.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\KampIntro\GameDemo\obj\Debug\net5.0\GameDemo.AssemblyInfo.cs
+C:\Users\alper\source\repos\KampIntro\GameDemo\obj\Debug\net5.0\GameDemo.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\KampIntro\GameDemo\bin\Debug\net5.0\GameDemo.exe
+C:\Users\alper\source\repos\KampIntro\GameDemo\bin\Debug\net5.0\GameDemo.deps.json
+C:\Users\alper\source\repos\KampIntro\GameDemo\bin\Debug\net5.0\GameDemo.runtimeconfig.json
+C:\Users\alper\source\repos\KampIntro\GameDemo\bin\Debug\net5.0\GameDemo.runtimeconfig.dev.json
+C:\Users\alper\source\repos\KampIntro\GameDemo\bin\Debug\net5.0\GameDemo.dll
+C:\Users\alper\source\repos\KampIntro\GameDemo\bin\Debug\net5.0\ref\GameDemo.dll
+C:\Users\alper\source\repos\KampIntro\GameDemo\bin\Debug\net5.0\GameDemo.pdb
+C:\Users\alper\source\repos\KampIntro\GameDemo\obj\Debug\net5.0\GameDemo.dll
+C:\Users\alper\source\repos\KampIntro\GameDemo\obj\Debug\net5.0\ref\GameDemo.dll
+C:\Users\alper\source\repos\KampIntro\GameDemo\obj\Debug\net5.0\GameDemo.pdb
+C:\Users\alper\source\repos\KampIntro\GameDemo\obj\Debug\net5.0\GameDemo.genruntimeconfig.cache

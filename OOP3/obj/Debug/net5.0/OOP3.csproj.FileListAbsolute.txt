@@ -13,3 +13,4 @@ C:\Users\alper\source\repos\KampIntro\OOP3\obj\Debug\net5.0\OOP3.dll
 C:\Users\alper\source\repos\KampIntro\OOP3\obj\Debug\net5.0\ref\OOP3.dll
 C:\Users\alper\source\repos\KampIntro\OOP3\obj\Debug\net5.0\OOP3.pdb
 C:\Users\alper\source\repos\KampIntro\OOP3\obj\Debug\net5.0\OOP3.genruntimeconfig.cache
+C:\Users\alper\source\repos\KampIntro\OOP3\obj\Debug\net5.0\OOP3.csproj.AssemblyReference.cache
