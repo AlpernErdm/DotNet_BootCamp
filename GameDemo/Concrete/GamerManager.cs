@@ -21,6 +21,7 @@ namespace GameDemo.Concrete
         {
         }
 
+    
         public bool Register(Gamer gamer)
         {
             if (_verificationService.Verify((gamer)))
@@ -43,22 +44,6 @@ namespace GameDemo.Concrete
             Console.WriteLine($"{gamer.FirstName} {gamer.LastName}'s information updated successfully.");
         }
 
-        public bool Register()
-        {
-            throw new NotImplementedException();
-        }
-        public void Remove()
-        {
-            throw new NotImplementedException();
-        }
-        public void Update()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Delete(Gamer gamer)
-        {
-            throw new NotImplementedException();
-        }
+     
     }
 }
